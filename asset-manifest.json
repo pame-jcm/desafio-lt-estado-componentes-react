@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/desafio-lt-estado-componentes-react/static/css/main.4fe9da41.css",
+    "main.js": "/desafio-lt-estado-componentes-react/static/js/main.a6510233.js",
+    "static/js/787.d85823c4.chunk.js": "/desafio-lt-estado-componentes-react/static/js/787.d85823c4.chunk.js",
+    "index.html": "/desafio-lt-estado-componentes-react/index.html",
+    "main.4fe9da41.css.map": "/desafio-lt-estado-componentes-react/static/css/main.4fe9da41.css.map",
+    "main.a6510233.js.map": "/desafio-lt-estado-componentes-react/static/js/main.a6510233.js.map",
+    "787.d85823c4.chunk.js.map": "/desafio-lt-estado-componentes-react/static/js/787.d85823c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fe9da41.css",
+    "static/js/main.a6510233.js"
+  ]
+}
